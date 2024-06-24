@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-I developed [Ezerath's Last Hope](https://store.steampowered.com/app/2422590/Ezeraths_Last_Hope/)
+### I developed [Ezerath's Last Hope](https://store.steampowered.com/app/2422590/Ezeraths_Last_Hope/) and [Ezerath 3D](https://store.steampowered.com/app/2928080/Ezerath_3D/)
 <!--
 **Warmedpie/Warmedpie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
