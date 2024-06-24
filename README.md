@@ -1,6 +1,5 @@
 ## Hi there 👋
-### I developed [Ezerath's Last Hope](https://store.steampowered.com/app/2422590/Ezeraths_Last_Hope/) and [Ezerath 3D](https://store.steampowered.com/app/2928080/Ezerath_3D/)
-
+### I developed [Ezerath's Last Hope](https://store.steampowered.com/app/2422590/Ezeraths_Last_Hope/) and [Ezerath 3D](https://store.steampowered.com/app/2928080/Ezerath_3D/) Using:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
