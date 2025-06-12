@@ -1,4 +1,4 @@
-## Hi there 👋
-### Game developer with C++ and C#
-### Chess programming enthusiast with C++ and Java
-### Full stack with Java Springboot, Node.js, and React JS.
+### IPD in python
+### Full stack and automation testing in Java, React, and Node.js
+### Game development in C++ and C#
+### Chess Programming in C++ and Java
